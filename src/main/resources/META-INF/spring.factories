@@ -1,1 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=de.codecentric.mule.configuration.MuleAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.redpill.mule.configuration.MuleAutoConfiguration

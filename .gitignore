@@ -3,3 +3,10 @@
 /.classpath
 /.project
 .mule
+.gradle
+.idea
+build
+gradle
+out
+*.iml
+

@@ -1,4 +1,4 @@
-package de.codecentric.mule;
+package com.redpill.mule;
 
 import static org.junit.Assert.assertNotNull;
 

@@ -1,4 +1,4 @@
-package de.codecentric.mule.http;
+package com.redpill.mule.http;
 
 import static org.junit.Assert.assertEquals;
 
@@ -13,7 +13,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import de.codecentric.mule.http.HttpTest.TestApplication;
+import com.redpill.mule.http.HttpTest.TestApplication;
 
 
 /**

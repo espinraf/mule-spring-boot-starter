@@ -1,4 +1,4 @@
-package de.codecentric.mule;
+package com.redpill.mule;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.event.ContextClosedEvent;
 import org.springframework.context.event.ContextRefreshedEvent;
 
-import de.codecentric.mule.configuration.MuleContextInitializer;
+import com.redpill.mule.configuration.MuleContextInitializer;
 
 
 /**

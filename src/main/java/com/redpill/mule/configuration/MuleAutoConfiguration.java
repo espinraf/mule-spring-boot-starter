@@ -1,4 +1,4 @@
-package de.codecentric.mule.configuration;
+package com.redpill.mule.configuration;
 
 import org.mule.api.MuleContext;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
